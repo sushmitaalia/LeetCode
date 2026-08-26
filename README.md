@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/sushmitaalia/LeetCode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/sushmitaalia/LeetCode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/sushmitaalia/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/sushmitaalia/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/sushmitaalia/LeetCode/tree/master/0205-isomorphic-strings) |
@@ -95,5 +96,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/sushmitaalia/LeetCode/tree/master/0067-add-binary) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/sushmitaalia/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/sushmitaalia/LeetCode/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/sushmitaalia/LeetCode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
