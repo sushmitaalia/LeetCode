@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/sushmitaalia/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sushmitaalia/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/sushmitaalia/LeetCode/tree/master/0169-majority-element) |
+| [0274-h-index](https://github.com/sushmitaalia/LeetCode/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/sushmitaalia/LeetCode/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/sushmitaalia/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/sushmitaalia/LeetCode/tree/master/0605-can-place-flowers) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/sushmitaalia/LeetCode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/sushmitaalia/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/sushmitaalia/LeetCode/tree/master/0169-majority-element) |
+| [0274-h-index](https://github.com/sushmitaalia/LeetCode/tree/master/0274-h-index) |
 ## Hash Table
 |  |
 | ------- |
@@ -120,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/sushmitaalia/LeetCode/tree/master/0202-happy-number) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/sushmitaalia/LeetCode/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
