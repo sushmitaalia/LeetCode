@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/sushmitaalia/LeetCode/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/sushmitaalia/LeetCode/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/sushmitaalia/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
+| [0380-insert-delete-getrandom-o1](https://github.com/sushmitaalia/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0605-can-place-flowers](https://github.com/sushmitaalia/LeetCode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/sushmitaalia/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/sushmitaalia/LeetCode/tree/master/0724-find-pivot-index) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/sushmitaalia/LeetCode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/sushmitaalia/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/sushmitaalia/LeetCode/tree/master/0290-word-pattern) |
+| [0380-insert-delete-getrandom-o1](https://github.com/sushmitaalia/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/sushmitaalia/LeetCode/tree/master/0009-palindrome-number) |
 | [0067-add-binary](https://github.com/sushmitaalia/LeetCode/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/sushmitaalia/LeetCode/tree/master/0202-happy-number) |
+| [0380-insert-delete-getrandom-o1](https://github.com/sushmitaalia/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/sushmitaalia/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Bit Manipulation
 |  |
@@ -143,4 +146,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/sushmitaalia/LeetCode/tree/master/0101-symmetric-tree) |
+## Design
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/sushmitaalia/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/sushmitaalia/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
