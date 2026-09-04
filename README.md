@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/sushmitaalia/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sushmitaalia/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/sushmitaalia/LeetCode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/sushmitaalia/LeetCode/tree/master/0189-rotate-array) |
 | [0274-h-index](https://github.com/sushmitaalia/LeetCode/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/sushmitaalia/LeetCode/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/sushmitaalia/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/sushmitaalia/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/sushmitaalia/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sushmitaalia/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/sushmitaalia/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/sushmitaalia/LeetCode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/sushmitaalia/LeetCode/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sushmitaalia/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/sushmitaalia/LeetCode/tree/master/0009-palindrome-number) |
 | [0067-add-binary](https://github.com/sushmitaalia/LeetCode/tree/master/0067-add-binary) |
+| [0189-rotate-array](https://github.com/sushmitaalia/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/sushmitaalia/LeetCode/tree/master/0202-happy-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/sushmitaalia/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/sushmitaalia/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
