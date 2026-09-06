@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sushmitaalia/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/sushmitaalia/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/sushmitaalia/LeetCode/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/sushmitaalia/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0274-h-index](https://github.com/sushmitaalia/LeetCode/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/sushmitaalia/LeetCode/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/sushmitaalia/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
@@ -68,11 +69,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/sushmitaalia/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/sushmitaalia/LeetCode/tree/master/0724-find-pivot-index) |
 | [1732-find-the-highest-altitude](https://github.com/sushmitaalia/LeetCode/tree/master/1732-find-the-highest-altitude) |
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/sushmitaalia/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/sushmitaalia/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 ## Longest Increasing Subsequence
 |  |
@@ -110,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sushmitaalia/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/sushmitaalia/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 ## Math
 |  |
 | ------- |
