@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/sushmitaalia/LeetCode/tree/master/0724-find-pivot-index) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/sushmitaalia/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1732-find-the-highest-altitude](https://github.com/sushmitaalia/LeetCode/tree/master/1732-find-the-highest-altitude) |
+| [2126-destroying-asteroids](https://github.com/sushmitaalia/LeetCode/tree/master/2126-destroying-asteroids) |
 ## Greedy
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/sushmitaalia/LeetCode/tree/master/0134-gas-station) |
 | [0334-increasing-triplet-subsequence](https://github.com/sushmitaalia/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/sushmitaalia/LeetCode/tree/master/0605-can-place-flowers) |
+| [2126-destroying-asteroids](https://github.com/sushmitaalia/LeetCode/tree/master/2126-destroying-asteroids) |
 ## Two Pointers
 |  |
 | ------- |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/sushmitaalia/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/sushmitaalia/LeetCode/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/sushmitaalia/LeetCode/tree/master/0274-h-index) |
+| [2126-destroying-asteroids](https://github.com/sushmitaalia/LeetCode/tree/master/2126-destroying-asteroids) |
 ## Hash Table
 |  |
 | ------- |
